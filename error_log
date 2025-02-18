@@ -1,0 +1,4 @@
+[31-Dec-2024 10:26:10 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DeviceDataController::extractModbusData() in /home/ioglobe/public_html/app/Http/Controllers/Api/DeviceDataController.php on line 82
+[31-Dec-2024 10:26:11 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\DeviceDataController::extractModbusData() in /home/ioglobe/public_html/app/Http/Controllers/Api/DeviceDataController.php on line 82
+[13-Jan-2025 05:24:17 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ioglobe/public_html/app/Services/DeviceDataService.php on line 112
+[13-Jan-2025 07:03:45 UTC] PHP Fatal error:  Cannot use App\Models\Alarm as Alarm because the name is already in use in /home/ioglobe/public_html/app/Services/DeviceDataService.php on line 11
